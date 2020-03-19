@@ -4,7 +4,7 @@ package boardgame;
  * @author Leonardo
  */
 public class Position {
-    
+
     //attributes
     private int row;
     private int column;
