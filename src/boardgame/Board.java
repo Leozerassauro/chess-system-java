@@ -5,6 +5,7 @@ package boardgame;
  */
 public class Board {
 
+    //attributes
     private int rows;
     private int columns;
     private Piece[][] pieces;
