@@ -14,7 +14,7 @@ public abstract class Piece {
         this.board = board;
     }
 
-    //getters and setters
+    //getters
     protected Board getBoard() {
         return board;
     }
